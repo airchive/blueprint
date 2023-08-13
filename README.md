@@ -1,24 +1,42 @@
-# 🪶 Blueprint
-A collection of useful files for new repository's scaffolding.
+# Blueprint
+Collection of useful files for new repository's scaffolding.
 
-## 📦 Install
+## Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
+
+## Installation
 Follow the steps below to make use of Blueprint.
 
-1. Clone this repository:
+Clone this repository:
 ```bash
 git clone https://github.com/airchive/blueprint.git
 ```
 
-## 🤝 Contribute
+## Usage
+In order to use this project, just click the use as template in the repository's page.
+
+## Resources
+404
+
+## Contributing
 Contributions and suggestions about how to improve this project are welcome!
+Please follow [our contribution guidelines](https://github.com/airchive/blueprint/blob/main/CONTRIBUTING.md).
 
-## 💚 Support
-If you want to support my work you can do it with the links below.
+## Support
+If you want to support my work you can do it by following me, leaving a star, sharing my projects or also donating at the links below.  
+Choose what you find more suitable for you:  
 
-Choose what you find more suitable for you:
-- [Support me on GitHub](https://github.com/sponsors/Airscripts)
-- [Support me on Ko-Fi](https://ko-fi.com/airscript)
-- [Support me via linktr.ee](https://linktr.ee/airscript)
+<a href="https://sponsor.airscript.it" target="blank">
+  <img src="https://raw.githubusercontent.com/airchive/assets/main/images/github-sponsors.svg" alt="GitHub Sponsors" width="30px" />
+</a>&nbsp;
+<a href="https://kofi.airscript.it" target="blank">
+  <img src="https://raw.githubusercontent.com/airchive/assets/main/images/kofi.svg" alt="Kofi" width="30px" />
+</a>
 
-## 💳 License
+## License  
 This repository is licensed under [GPL-3.0 License](https://github.com/airchive/blueprint/blob/main/LICENSE).
